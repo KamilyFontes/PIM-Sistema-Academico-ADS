@@ -1,0 +1,48 @@
+=== ALUNO CADASTRADO ===
+Matricula: 1165
+Nome: Ane Gabriella Teixeira Dourado
+CPF: 123456789
+RG: 123456
+Sexo: F
+Data de Nascimento: 01/01/2001
+------------------------
+=== ALUNO CADASTRADO ===
+Matricula: 1366
+Nome: Gustavo Alves de Sousa
+CPF: 123456789
+RG: 123456
+Sexo: M
+Data de Nascimento: 01/01/2001
+------------------------
+=== ALUNO CADASTRADO ===
+Matricula: 1070
+Nome: Gustavo Henrique da Costa Gomes
+CPF: 123456789
+RG: 123456
+Sexo: M
+Data de Nascimento: 01/01/2001
+------------------------
+=== ALUNO CADASTRADO ===
+Matricula: 1024
+Nome: Joao Vitor Souza Cabral
+CPF: 123456789
+RG: 123456
+Sexo: M
+Data de Nascimento: 01/01/2001
+------------------------
+=== ALUNO CADASTRADO ===
+Matricula: 1132
+Nome: Kamily Gabrielly Silva Fontes
+CPF: 123456789
+RG: 123456
+Sexo: F
+Data de Nascimento: 01/01/2001
+------------------------
+=== ALUNO CADASTRADO ===
+Matricula: 1173
+Nome: Ryan de Sousa Rocha
+CPF: 123456789
+RG: 123456
+Sexo: M
+Data de Nascimento: 01/01/2001
+------------------------

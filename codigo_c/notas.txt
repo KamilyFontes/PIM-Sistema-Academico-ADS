@@ -1,0 +1,36 @@
+Matricula: 1165
+Nome: Ane Gabriella Teixeira Dourado
+NP1: 9.00
+NP2: 10.00
+PIM: 10.00
+------------------------
+Matricula: 1366
+Nome: Gustavo Alves de Sousa
+NP1: 8.00
+NP2: 10.00
+PIM: 10.00
+------------------------
+Matricula: 1070
+Nome: Gustavo Henrique da Costa Gomes
+NP1: 10.00
+NP2: 8.00
+PIM: 10.00
+------------------------
+Matricula: 1024
+Nome: Joao Vitor Souza Cabral
+NP1: 7.00
+NP2: 7.00
+PIM: 10.00
+------------------------
+Matricula: 1132
+Nome: Kamily Gabrielly Silva Fontes
+NP1: 9.00
+NP2: 10.00
+PIM: 10.00
+------------------------
+Matricula: 1173
+Nome: Ryan de Sousa Rocha
+NP1: 10.00
+NP2: 10.00
+PIM: 10.00
+------------------------
